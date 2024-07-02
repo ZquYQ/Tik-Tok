@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/QP.png</file>
+        <file>images/Titel.png</file>
+        <file>images/BF.png</file>
+        <file>images/ZT.png</file>
+        <file>images/add.png</file>
+        <file>images/Join.png</file>
+        <file>images/Password.png</file>
+        <file>images/Player.png</file>
+        <file>images/Add.png</file>
+        <file>images/Out.png</file>
+        <file>images/DOWN.png</file>
+        <file>images/UP.png</file>
+        <file>images/YP.png</file>
+        <file>images/YP-NO.png</file>
+        <file>images/Titel2.png</file>
+        <file>images/Communication.png</file>
+        <file>images/Home.png</file>
+        <file>images/TG.png</file>
+        <file>images/YQ.jpg</file>
+    </qresource>
+    <qresource prefix="/TCP">
+        <file>images/051.JPG</file>
+        <file>images/072.JPG</file>
+        <file>images/075.JPG</file>
+        <file>images/132.bmp</file>
+        <file>images/212.bmp</file>
+        <file>images/620.bmp</file>
+        <file>images/624.bmp</file>
+        <file>images/826.bmp</file>
+        <file>images/828.bmp</file>
+    </qresource>
+</RCC>
